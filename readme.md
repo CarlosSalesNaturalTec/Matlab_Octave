@@ -1,0 +1,1 @@
+Octave é uma linguagem de programação open source, similar ao MATLAB e adequada para cálculos numéricos e machine learning.
